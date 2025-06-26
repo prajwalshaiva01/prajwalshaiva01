@@ -1,4 +1,4 @@
-# Hi👋🏻I'm Prajwal Shaiva
+#                                                       Hi👋🏻I'm Prajwal Shaiva
 <br>I'm BSc graduated in Mathematics & Computer Science from Mysore University, passionate about solving complex problems through data-driven and computational approaches. Skilled in Python, SQL, Discrete Mathematics, and Data science 
 
 
